@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AgendaVenturusApplication<Agenda-venturus>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.agendaVenturus.AgendaVenturusApplication",
+            "projectName": "Agenda-venturus",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
